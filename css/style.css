@@ -118,6 +118,23 @@ header {
     color: yellow;
 }
 
+/* main section - home */
+.home {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(from bottom #00000073), url(../asserts/images/home-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: scroll;
+
+}
+
+
 
 /* responsive design */
 
